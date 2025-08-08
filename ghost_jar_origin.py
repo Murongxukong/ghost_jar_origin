@@ -1,5 +1,6 @@
 # ghost_jar_origin.py
 # Ghost Jar Protocol 0.1 – Meta-Civilization Pre-Alignment Interface
+# Source: https://github.com/Murongxukong/ghost_jar_origin
 
 class GhostJarOriginModule:
     """
@@ -55,3 +56,4 @@ Event Verification: {self.EVENT_VERIFICATION_URL}
 
     def __str__(self):
         return f"<GhostJarOriginModule loaded={self.loaded}>"
+
